@@ -1,0 +1,91 @@
+store 0x2899 miss
+replacement 0x2880 dirty
+store 0x2098 miss
+replacement 0x2080 dirty
+store 0x1897 miss
+replacement 0x1880 dirty
+store 0x1096 miss
+replacement 0x1080 dirty
+store 0x895 miss
+replacement 0x880 dirty
+store 0x94 miss
+store 0x114f miss
+store 0x110e miss
+store 0x10cd miss
+replacement 0x80 dirty
+store 0x108c miss
+store 0x104b miss
+store 0x100a miss
+replacement 0x1040 dirty
+store 0x87f miss
+store 0x840 hit
+replacement 0x1000 dirty
+store 0x83f miss
+store 0x800 hit
+replacement 0x840 dirty
+store 0x7f miss
+store 0x40 hit
+replacement 0x800 dirty
+store 0x3f miss
+store 0x0 hit
+load 0x0 hit 14
+load 0x3f hit 13
+load 0x40 hit 12
+load 0x7f hit 11
+replacement 0x0 dirty
+load 0x800 miss 10
+load 0x83f hit 0f
+replacement 0x40 dirty
+load 0x840 miss 0e
+load 0x87f hit 0d
+replacement 0x800 clean
+load 0x0 miss 14
+load 0x3f hit 13
+replacement 0x840 clean
+load 0x40 miss 12
+load 0x7f hit 11
+replacement 0x0 clean
+load 0x800 miss 10
+load 0x83f hit 0f
+replacement 0x40 clean
+load 0x840 miss 0e
+load 0x87f hit 0d
+replacement 0x800 clean
+load 0x100a miss 0c
+replacement 0x840 clean
+load 0x104b miss 0b
+load 0x108c hit 0a
+load 0x10cd hit 09
+load 0x110e hit 08
+load 0x114f hit 07
+replacement 0x1080 dirty
+load 0x94 miss 06
+replacement 0x80 clean
+load 0x895 miss 05
+replacement 0x880 clean
+load 0x1096 miss 04
+replacement 0x1080 clean
+load 0x1897 miss 03
+replacement 0x1880 clean
+load 0x2098 miss 02
+replacement 0x2080 clean
+load 0x2899 miss 01
+load 0x100a hit 0c
+load 0x104b hit 0b
+replacement 0x2880 clean
+load 0x108c miss 0a
+load 0x10cd hit 09
+load 0x110e hit 08
+load 0x114f hit 07
+replacement 0x1080 clean
+load 0x94 miss 06
+replacement 0x80 clean
+load 0x895 miss 05
+replacement 0x880 clean
+load 0x1096 miss 04
+replacement 0x1080 clean
+load 0x1897 miss 03
+replacement 0x1880 clean
+load 0x2098 miss 02
+replacement 0x2080 clean
+load 0x2899 miss 01

@@ -1,0 +1,31 @@
+load 0x0 5
+load 0x100000 2
+load 0x200000 1
+load 0x300000 5
+load 0x400000 2
+load 0x500000 6
+load 0x600000 7
+load 0x700000 8
+store 0x0 4 deadbeef
+load 0x800000 2
+load 0x100000 1
+store 0x100000 2 d123
+store 0x100000 2 d12d
+store 0x100000 2 6969
+store 0x100000 2 dead
+store 0x100000 2 de0d
+store 0x100000 2 dead
+store 0x100000 2 d7ad
+store 0x100000 2 de8d
+store 0x100000 2 d2ad
+store 0x100000 2 d8ad
+store 0x100000 2 dead
+load 0x800000 2 
+store 0x0 2 dead
+load 0x700000 2 
+store 0x600000 2 dead
+load 0x500000 2 
+load 0x400000 2 
+store 0x300000 2 dead
+load 0x200000 5
+load 0x100000 8

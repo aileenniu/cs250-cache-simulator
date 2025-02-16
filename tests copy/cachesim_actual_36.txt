@@ -1,0 +1,116 @@
+load 0x0 miss 00
+load 0x0 hit 00
+load 0x0 hit 00
+load 0x400 miss 00
+load 0x0 hit 00
+load 0x400 hit 00
+load 0x0 hit 00
+load 0x400 hit 00
+replacement 0x0 clean
+load 0x800 miss 00
+replacement 0x400 clean
+load 0xc00 miss 00
+replacement 0x800 clean
+load 0x0 miss 00
+replacement 0xc00 clean
+load 0x400 miss 00
+replacement 0x0 clean
+load 0x800 miss 00
+replacement 0x400 clean
+load 0xc00 miss 00
+replacement 0x800 clean
+load 0x0 miss 00
+replacement 0xc00 clean
+load 0x400 miss 00
+replacement 0x0 clean
+load 0x800 miss 00
+replacement 0x400 clean
+load 0xc00 miss 00
+replacement 0x800 clean
+load 0x1000 miss 00
+replacement 0xc00 clean
+load 0x1400 miss 00
+replacement 0x1000 clean
+load 0x1800 miss 00
+replacement 0x1400 clean
+load 0x1c00 miss 00
+replacement 0x1800 clean
+load 0x0 miss 00
+replacement 0x1c00 clean
+load 0x400 miss 00
+replacement 0x0 clean
+load 0x800 miss 00
+replacement 0x400 clean
+load 0xc00 miss 00
+replacement 0x800 clean
+load 0x1000 miss 00
+replacement 0xc00 clean
+load 0x1400 miss 00
+replacement 0x1000 clean
+load 0x1800 miss 00
+replacement 0x1400 clean
+load 0x1c00 miss 00
+replacement 0x1800 clean
+load 0x0 miss 00
+replacement 0x1c00 clean
+load 0x400 miss 00
+replacement 0x0 clean
+load 0x800 miss 00
+replacement 0x400 clean
+load 0xc00 miss 00
+replacement 0x800 clean
+load 0x1000 miss 00
+replacement 0xc00 clean
+load 0x1400 miss 00
+replacement 0x1000 clean
+load 0x1800 miss 00
+replacement 0x1400 clean
+load 0x1c00 miss 00
+replacement 0x1800 clean
+load 0x2000 miss 00
+replacement 0x1c00 clean
+load 0x2400 miss 00
+replacement 0x2000 clean
+load 0x2800 miss 00
+replacement 0x2400 clean
+load 0x2c00 miss 00
+replacement 0x2800 clean
+load 0x3000 miss 00
+replacement 0x2c00 clean
+load 0x3400 miss 00
+replacement 0x3000 clean
+load 0x3800 miss 00
+replacement 0x3400 clean
+load 0x3c00 miss 00
+replacement 0x3800 clean
+load 0x0 miss 00
+replacement 0x3c00 clean
+load 0x400 miss 00
+replacement 0x0 clean
+load 0x800 miss 00
+replacement 0x400 clean
+load 0xc00 miss 00
+replacement 0x800 clean
+load 0x1000 miss 00
+replacement 0xc00 clean
+load 0x1400 miss 00
+replacement 0x1000 clean
+load 0x1800 miss 00
+replacement 0x1400 clean
+load 0x1c00 miss 00
+replacement 0x1800 clean
+load 0x2000 miss 00
+replacement 0x1c00 clean
+load 0x2400 miss 00
+replacement 0x2000 clean
+load 0x2800 miss 00
+replacement 0x2400 clean
+load 0x2c00 miss 00
+replacement 0x2800 clean
+load 0x3000 miss 00
+replacement 0x2c00 clean
+load 0x3400 miss 00
+replacement 0x3000 clean
+load 0x3800 miss 00
+replacement 0x3400 clean
+load 0x3c00 miss 00

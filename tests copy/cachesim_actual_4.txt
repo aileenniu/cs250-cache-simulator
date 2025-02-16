@@ -1,0 +1,21 @@
+load 0x0 miss 00
+store 0x1 hit
+store 0x800 miss
+replacement 0x0 dirty
+store 0x1000 miss
+replacement 0x800 dirty
+load 0x1 miss 03
+load 0x1002 hit 0a00
+store 0x0 hit
+replacement 0x1000 dirty
+load 0x801 miss 0700
+replacement 0x0 dirty
+load 0x1001 miss 0a0a
+replacement 0x800 clean
+load 0x1800 miss 00
+replacement 0x1000 clean
+load 0x0 miss 03
+replacement 0x1800 clean
+store 0x2000 miss
+load 0x2000 hit 11
+load 0x0 hit 03
